@@ -19,5 +19,6 @@
 <h2>Últimos Projetos</h2>
 
 - [Conversor de Moedas - HTML, CSS e Javascript](https://github.com/devlucas19/Conversor-de-Moedas)<br>
-- [Barbecue Simulator - HTML, CSS e Javascript](https://github.com/devlucas19/BarbecueSimulator)<br>
+- [Jogo da Velha - HTML, CSS e Javascript](https://github.com/devlucas19/Jogo-da-Velha)<br>
+- [Mario Game - HTML, CSS e Javascript](https://github.com/devlucas19/MarioGame)<br>
 
