@@ -21,4 +21,6 @@
 - [Conversor de Moedas - HTML, CSS e Javascript](https://github.com/devlucas19/Conversor-de-Moedas)<br>
 - [Jogo da Velha - HTML, CSS e Javascript](https://github.com/devlucas19/Jogo-da-Velha)<br>
 - [Mario Game - HTML, CSS e Javascript](https://github.com/devlucas19/MarioGame)<br>
+- [LoL Login Screen - HTML, CSS e Javascript](https://github.com/devlucas19/lol_loginscreen)<br>
+- [Login/Cadastro/Infos - HTML, CSS e Javascript](https://github.com/devlucas19/logincadastro)<br>
 
