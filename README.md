@@ -23,4 +23,6 @@
 - [Mario Game - HTML, CSS e Javascript](https://github.com/devlucas19/MarioGame)<br>
 - [LoL Login Screen - HTML, CSS e Javascript](https://github.com/devlucas19/lol_loginscreen)<br>
 - [Login/Cadastro/Infos - HTML, CSS e Javascript](https://github.com/devlucas19/logincadastro)<br>
+- [Music Player - HTML, CSS, Javascript e JQuery](https://github.com/devlucas19/musicplayer
+)<br>
 
